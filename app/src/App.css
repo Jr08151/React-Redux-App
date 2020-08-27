@@ -13,6 +13,19 @@
   }
 }
 
+body{
+  background-color:black;
+}
+
+.App {
+  text-align: center;
+  
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -25,14 +38,10 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #09d3ac;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+h1{
+  color:white;
+  font-size: 3rem;
 }
